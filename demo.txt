@@ -1,0 +1,1 @@
+You can create an RDD by loading data from an external source, such as a file in HDFS, a local file system, or other supported data sources. You can use methods like textFile for reading text files, wholeTextFiles for reading multiple small text files as a pair of (filename, content), or other specific methods for different data formats.
